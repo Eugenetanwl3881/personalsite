@@ -13,17 +13,22 @@ const About = () => {
           <h2 className="py-4">Hi there! I'm Eugene</h2>
           <p className="py-2 text-gray-800">Thank you for visiting my site</p>
           <p className="py-2 text-gray-800">
-            I am a Year 2 Computer Science Student studying at the National
-            University of Singapore. I am a curious learner by nature and like
-            to dabble around with things to learn and pick up new skills.
-            Delving into the world of programming has given me this opportunity
-            to constantly experiment, learn and pick up new skills. I am a firm
-            believer of continuous learning and hence am excited about what the
-            vast field of technology has to offer. In fact, this is my first
-            time creating my personal site and I styled it with Tailwind CSS
-            which I have just picked up. There are still many exciting
-            frameworks that I have discovered while building this site as well
-            which I plan to dabble with so do keep a look out for that as well.
+            I am a Year 2 Computer Science Student studying at the{" "}
+            <a href="https://nus.edu.sg/">
+              <span className="text-teal-600">
+                National University of Singapore.
+              </span>
+            </a>{" "}
+            I am a curious learner by nature and like to dabble around with
+            things to learn and pick up new skills. Delving into the world of
+            programming has given me this opportunity to constantly experiment,
+            learn and pick up new skills. I am a firm believer of continuous
+            learning and hence am excited about what the vast field of
+            technology has to offer. In fact, this is my first time creating my
+            personal site and I styled it with Tailwind CSS which I have just
+            picked up. There are still many exciting frameworks that I have
+            discovered while building this site as well which I plan to dabble
+            with so do keep a look out for that as well.
           </p>
           <p className="py-2 text-gray-800">
             During my free time, I also enjoy outdoor activities like hiking and
