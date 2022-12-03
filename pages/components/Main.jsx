@@ -1,5 +1,4 @@
 import React from "react";
-import Typical from "react-typical";
 import { useEffect, useState } from "react";
 import ReactTyped from "react-typed";
 import { FaEnvelope, FaFile, FaGithub, FaLinkedin } from "react-icons/fa";
