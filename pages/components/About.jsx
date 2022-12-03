@@ -1,5 +1,5 @@
 import React from "react";
-import mypicture from "../../public/assets/contact.jpeg";
+import mypicture from "../../public/assets/eugenetanwl3881.png";
 import Image from "next/image";
 
 const About = () => {
@@ -42,7 +42,14 @@ const About = () => {
           </p>
         </div>
         <div className="w-full h-auto m-auto rounded-xl shadow-lg shadow-teal-400 flex items-center justify-center p-4 hover:scale-110 ease-in duration-200">
-          <Image src={mypicture} alt="My picture" />
+          <Image
+            src={mypicture}
+            alt="My picture"
+            width="0"
+            height="0"
+            sizes="100vw"
+            style={{ width: "100%", height: "auto" }}
+          />
         </div>
       </div>
     </div>
