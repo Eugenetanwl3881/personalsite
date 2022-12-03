@@ -44,10 +44,8 @@ const About = () => {
           <Image
             src="/../public/assets/eugenetanwl3881.png"
             alt="My picture"
-            width="0"
-            height="0"
-            sizes="100vw"
-            style={{ width: "100%", height: "auto" }}
+            width="400"
+            height="400"
           />
         </div>
       </div>
