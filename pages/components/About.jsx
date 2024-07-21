@@ -13,7 +13,7 @@ const About = () => {
           <h2 className="py-4">Hi there! I'm Eugene</h2>
           <p className="py-2 text-gray-800">Thank you for visiting my site</p>
           <p className="py-2 text-gray-800">
-            I am a Year 2 Computer Science Student studying at the{" "}
+            I am a Penultimate Year Computer Science Student studying at the{" "}
             <a href="https://nus.edu.sg/">
               <span className="text-teal-600">
                 National University of Singapore.
@@ -24,7 +24,7 @@ const About = () => {
             programming has given me this opportunity to constantly experiment,
             learn and pick up new skills. I am a firm believer of continuous
             learning and hence am excited about what the vast field of
-            technology has to offer. In fact, this is my first time creating my
+            technology has to offer. In fact, this is first time creating my
             personal site and I styled it with Tailwind CSS which I have just
             picked up. There are still many exciting frameworks that I have
             discovered while building this site as well which I plan to dabble
@@ -42,7 +42,7 @@ const About = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Check out some of my projects
+              Check out some of my past projects
             </a>
           </p>
         </div>

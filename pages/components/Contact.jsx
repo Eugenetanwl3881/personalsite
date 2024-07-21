@@ -57,11 +57,11 @@ const Contact = () => {
               <div>
                 <h2 className="py-2">Eugene Tan</h2>
                 <p>
-                  Computer Science Sophomore @ National University of Singapore{" "}
+                  Computer Science Student @ National University of Singapore{" "}
                 </p>
                 <p className="py-4">
-                  I am open to full-time or part-time internship positions.
-                  Contact me and let's talk!
+                  I am open to full-time or part-time internship positions or
+                  projects. Contact me and let's talk!
                 </p>
               </div>
               <div>
