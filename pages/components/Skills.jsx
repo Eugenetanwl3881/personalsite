@@ -11,6 +11,9 @@ import reactImg from "../../public/assets/react.png";
 import firebaseImg from "../../public/assets/firebase.png";
 import nextjsImg from "../../public/assets/nextjs.png";
 import tailwindImg from "../../public/assets/tailwind.png";
+import SQLImg from "../../public/assets/SQL.png";
+import Bash from "../../public/assets/bash.jpg";
+import Cicd from "../../public/assets/CiCd.png";
 
 const Skills = () => {
   return (
@@ -43,6 +46,9 @@ const Skills = () => {
             img={tailwindImg}
             fileName="Tailwind"
           />
+          <SkillsButton title="SQL" img={SQLImg} fileName="SQL" />
+          <SkillsButton title="Shell Scripting" img={Bash} fileName="Bash" />
+          <SkillsButton title="CI/CD Pipelines" img={Cicd} fileName="Cicd" />
         </div>
       </div>
     </div>
