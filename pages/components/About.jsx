@@ -33,8 +33,8 @@ const About = () => {
           <p className="py-2 text-gray-800">
             During my free time, I also enjoy outdoor activities like hiking and
             running. On the creative side of things, I do play the guitar as
-            well. Some of my favourite musicians who inspire me include John
-            Mayer, James Bay and Alicia Keys.
+            well. Some of my favourite musicians who I like listening to include
+            James Bay, Taylor Swift ,Alicia Keys and John Mayer.
           </p>
           <p className="py-2 text-gray-600 underline cursor-pointer">
             <a
